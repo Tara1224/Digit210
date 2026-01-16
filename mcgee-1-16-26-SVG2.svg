@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="720" height="320" xmlns="http://www.w3.org/2000/svg">
+
+    <desc> Heat Map starting Saturday 1/17/26 - 1/23/26 </desc>
+
+
+    <rect width="100%" height="100%" fill="#9bddff"/>
+
+
+    <text x="360" y="40" text-anchor="middle" font-size="24" font-family="Courier New"> Weekly Weather
+        Heat Map (°F) </text>
+
+ 
+    <!-- saturday-->
+    <rect x="40" y="110" width="80" height="80" fill="#6baed6"/>
+    <text x="80" y="205" text-anchor="middle" font-family="Courier New">Sat</text>
+    <text x="80" y="100" text-anchor="middle" font-size="12" font-family="Courier New">34°</text>
+
+    <!--  sunday-->
+    <rect x="140" y="110" width="80" height="80" fill="#2171b5"/>
+    <text x="180" y="205" text-anchor="middle" font-family="Courier New">Sun</text>
+    <text x="180" y="100" text-anchor="middle" font-size="12" font-family="Courier New">17°</text>
+
+    <!--  monday-->
+    <rect x="240" y="110" width="80" height="80" fill="#3182bd"/>
+    <text x="280" y="205" text-anchor="middle" font-family="Courier New">Mon</text>
+    <text x="280" y="100" text-anchor="middle" font-size="12" font-family="Courier New">18°</text>
+
+    <!--tuesday  -->
+    <rect x="340" y="110" width="80" height="80" fill="#08519c"/>
+    <text x="380" y="205" text-anchor="middle" font-family="Courier New">Tue</text>
+    <text x="380" y="100" text-anchor="middle" font-size="12" font-family="Courier New">9°</text>
+
+    <!--wednesday-->
+    <rect x="440" y="110" width="80" height="80" fill="#9ecae1"/>
+    <text x="480" y="205" text-anchor="middle" font-family="Courier New" >Wed</text>
+    <text x="480" y="100" text-anchor="middle" font-size="12" font-family="Courier New">26°</text>
+
+    <!--thursday-->
+    <rect x="540" y="110" width="80" height="80" fill="#bdd7e7"/>
+    <text x="580" y="205" text-anchor="middle" font-family="Courier New" >Thu</text>
+    <text x="580" y="100" text-anchor="middle" font-size="12" font-family="Courier New">22°</text>
+
+    <!--friday-->
+    <rect x="640" y="110" width="80" height="80" fill="#b3cde3"/>
+    <text x="680" y="205" text-anchor="middle" font-family="Courier New">Fri</text>
+    <text x="680" y="100" text-anchor="middle" font-size="12" font-family="Courier New">23°</text>
+
+</svg>
