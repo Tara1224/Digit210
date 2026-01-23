@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f5f5;
+    color: #222;
+    line-height: 1.6;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.QuestEvent {
+    color: #8B0000;
+    font-weight: bold;
+}
+
+.QuestItem {
+    background-color: #FFFACD;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.character {
+    color: #003366;
+    font-style: italic;
+}
+
+.epithet {
+    text-transform: uppercase;
+    color: #555555;
+    font-style: italic;
+}
+
+.faction {
+    color: #006400;
+    font-weight: bold;
+}
+
+.location {
+    color: #1E90FF;
+    text-decoration: underline;
+}
