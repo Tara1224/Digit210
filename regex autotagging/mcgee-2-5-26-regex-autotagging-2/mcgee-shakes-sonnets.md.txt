@@ -1,0 +1,34 @@
+step 1 
+find: & 
+replace: &amp;
+no results
+
+step 2
+find: <
+replace: &lt;
+no results 
+
+step 3
+find: >
+replace: &gt;
+no results 
+
+step 4
+find: ^ +
+replace: (blank)
+
+step 5
+find: \n\n
+replace: \n
+
+step 6
+find: .+
+replace: <line>\0</line>
+
+step 7
+find: <line>([IVXLC]+)</line>
+replace: </sonnet>
+<sonnet number="\1">
+
+
+
