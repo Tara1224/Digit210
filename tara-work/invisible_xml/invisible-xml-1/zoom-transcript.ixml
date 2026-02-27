@@ -1,0 +1,12 @@
+xml: section++NL+.
+section: num+, NL, timestamp, NL, transcript. 
+timestamp: start, separator, end.
+-separator: - “ →”.
+@start: timeUnit1, timeUnit2.
+@end: timeUnit1, timeUnit2.
+timeUnit1: num, num, “:”, num, num, “:” .
+timeUnit2: (num ; “,”) +.
+transcript: NotNL++NL, NL?.
+-NL: -#a?, -#d.
+-NotNL: ~[#a;#]+.
+-num: [“0” - “9”].
