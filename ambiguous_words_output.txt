@@ -1,0 +1,36 @@
+SEASON 1 - TOP 15 MOST AMBIGUOUS VERBS
+--------------------------------------------------
+break: 75 senses
+broken: 72 senses
+breaking: 60 senses
+broke: 60 senses
+runs: 57 senses
+run: 57 senses
+made: 52 senses
+play: 52 senses
+makes: 51 senses
+make: 51 senses
+falls: 46 senses
+give: 45 senses
+gives: 45 senses
+takes: 44 senses
+take: 44 senses
+
+
+SEASON 10 - TOP 15 MOST AMBIGUOUS VERBS
+--------------------------------------------------
+breaks: 75 senses
+break: 75 senses
+broken: 72 senses
+cut: 70 senses
+cuts: 61 senses
+breaking: 60 senses
+runs: 57 senses
+run: 57 senses
+making: 52 senses
+made: 52 senses
+plays: 52 senses
+running: 52 senses
+makes: 51 senses
+make: 51 senses
+given: 47 senses
